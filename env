@@ -8,7 +8,7 @@ AUTO_READ_STATUS=yes
 AUTO_DOWNLOAD_STATUS=no
 
 # The display name of your bot
-BOT_NAME=𓆏⏤͟͟͞𝐀𝐋𝐓é ∘̥⃟ 💫VALIDÉE①
+BOT_NAME=𓆏⏤͟͟͞𝐀𝐋𝐓é ∘ 💫VALIDÉE①
 
 # The visual theme for bot menus (use a preset name or comma-separated media links)
 MENU_THEME=LUFFY
@@ -33,7 +33,7 @@ OWNER_NAME=alte
 OWNER_NUMBER=50944764875
 
 # Number of warnings before a user is penalized
-WARN_COUNT=3
+WARN_COUNT=2
 
 # If "yes", the bot sends a welcome message on startup
 STARTING_BOT_MESSAGE=no
